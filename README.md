@@ -1,0 +1,1 @@
+# Stock-Management-for-Dealer.
